@@ -1,0 +1,12 @@
+{
+  "group": "general_life",
+  "type": "minecraft:blasting",
+  "experience": 1,
+  "cookingtime": 100,
+  "ingredient": {
+    "item": "general_life:silver_dust"
+  },
+  "result": {
+    "item": "general_life:silver_ingot"
+  }
+}

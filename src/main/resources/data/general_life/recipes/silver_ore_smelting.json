@@ -1,0 +1,12 @@
+{
+  "group": "general_life",
+  "type": "minecraft:smelting",
+  "experience": 0.7,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "general_life:silver_ore"
+  },
+  "result": {
+    "item": "general_life:silver_ingot"
+  }
+}

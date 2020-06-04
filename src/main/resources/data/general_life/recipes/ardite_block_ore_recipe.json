@@ -1,0 +1,13 @@
+{
+  "group": "general_life",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "general_life:ardite_ore_block"
+    }
+  ],
+  "result": {
+    "item": "general_life:ardite_ingot",
+    "count": 9
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "group": "general_life",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "general_life:silver_ingot"
+    },
+    "1": {
+      "item": "general_life:silver_ingot"
+    },
+    "2": {
+      "item": "general_life:silver_ingot"
+    },
+    "3": {
+      "item": "general_life:silver_ingot"
+    },
+    "4": {
+      "item": "general_life:silver_ingot"
+    },
+    "5": {
+      "item": "general_life:silver_ingot"
+    },
+    "6": {
+      "item": "general_life:silver_ingot"
+    },
+    "7": {
+      "item": "general_life:silver_ingot"
+    },
+    "8": {
+      "item": "general_life:silver_ingot"
+    }
+  },
+  "result": {
+    "item": "general_life:silver_ore_block",
+    "count": 1
+  }
+}

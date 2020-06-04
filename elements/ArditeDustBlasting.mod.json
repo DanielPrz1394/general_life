@@ -1,0 +1,20 @@
+{
+  "_fv": 8,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smelting",
+    "xpReward": 200.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "smeltingInputStack": {
+      "value": "CUSTOM:ArditeDust"
+    },
+    "smeltingReturnStack": {
+      "value": "CUSTOM:ArditeIngot"
+    },
+    "name": "ardite_dust_blasting",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,431 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "CarnePurificada",
+      "type": "food",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "carne_purificada"
+    },
+    {
+      "name": "GeneralLife",
+      "type": "tab",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "general_life"
+    },
+    {
+      "name": "CarnePurificadaHorno",
+      "type": "recipe",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "carne_purificada_horno"
+    },
+    {
+      "name": "CarnePurificadaFogata",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "carne_purificada_fogata"
+    },
+    {
+      "name": "HuevoCocido",
+      "type": "food",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "huevo_cocido"
+    },
+    {
+      "name": "HuevoCocidoHorno",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "huevo_cocido_horno"
+    },
+    {
+      "name": "HuevoCocidoFogata",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "huevo_cocido_fogata"
+    },
+    {
+      "name": "CopperOre",
+      "type": "block",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_ore"
+    },
+    {
+      "name": "CopperOreBlock",
+      "type": "block",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_ore_block"
+    },
+    {
+      "name": "CopperIngot",
+      "type": "item",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_ingot"
+    },
+    {
+      "name": "CopperOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_ore_block_recipe"
+    },
+    {
+      "name": "CopperBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_block_ore_recipe"
+    },
+    {
+      "name": "CopperOreSmelting",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_ore_smelting"
+    },
+    {
+      "name": "CopperIngotTag",
+      "type": "tag",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_ingot_tag"
+    },
+    {
+      "name": "CopperOresTag",
+      "type": "tag",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_ores_tag"
+    },
+    {
+      "name": "CopperDust",
+      "type": "item",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_dust"
+    },
+    {
+      "name": "CopperDustTag",
+      "type": "tag",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_dust_tag"
+    },
+    {
+      "name": "CopperDustSmelting",
+      "type": "recipe",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_dust_smelting"
+    },
+    {
+      "name": "CopperDustBlasting",
+      "type": "recipe",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_dust_blasting"
+    },
+    {
+      "name": "SilverOre",
+      "type": "block",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "silver_ore"
+    },
+    {
+      "name": "SilverOreBlock",
+      "type": "block",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "silver_ore_block"
+    },
+    {
+      "name": "SilverIngot",
+      "type": "item",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "silver_ingot"
+    },
+    {
+      "name": "SilverOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "silver_ore_block_recipe"
+    },
+    {
+      "name": "SilverBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "silver_block_ore_recipe"
+    },
+    {
+      "name": "SilverOreSmelting",
+      "type": "recipe",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "silver_ore_smelting"
+    },
+    {
+      "name": "SilverIngotTag",
+      "type": "tag",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "silver_ingot_tag"
+    },
+    {
+      "name": "SilverOreTag",
+      "type": "tag",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "silver_ore_tag"
+    },
+    {
+      "name": "SilverDust",
+      "type": "item",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "silver_dust"
+    },
+    {
+      "name": "SilverDustTag",
+      "type": "tag",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "silver_dust_tag"
+    },
+    {
+      "name": "SilverDustBlasting",
+      "type": "recipe",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "silver_dust_blasting"
+    },
+    {
+      "name": "SilverDustSmelting",
+      "type": "recipe",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "silver_dust_smelting"
+    },
+    {
+      "name": "ArditeOre",
+      "type": "block",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ardite_ore"
+    },
+    {
+      "name": "ArditeOreBlock",
+      "type": "block",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ardite_ore_block"
+    },
+    {
+      "name": "ArditeIngot",
+      "type": "item",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ardite_ingot"
+    },
+    {
+      "name": "ArditeOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ardite_ore_block_recipe"
+    },
+    {
+      "name": "ArditeBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ardite_block_ore_recipe"
+    },
+    {
+      "name": "ArditeOreSmelting",
+      "type": "recipe",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ardite_ore_smelting"
+    },
+    {
+      "name": "ArditeOreTag",
+      "type": "tag",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ardite_ore_tag"
+    },
+    {
+      "name": "ArditeIngotTag",
+      "type": "tag",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ardite_ingot_tag"
+    },
+    {
+      "name": "ArditeDust",
+      "type": "item",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ardite_dust"
+    },
+    {
+      "name": "ArditeDustTag",
+      "type": "tag",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ardite_dust_tag"
+    },
+    {
+      "name": "ArditeDustBlasting",
+      "type": "recipe",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ardite_dust_blasting"
+    },
+    {
+      "name": "ArditeDustSmelting",
+      "type": "recipe",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ardite_dust_smelting"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.general_life.copper_ore": "Copper Ore",
+      "block.general_life.silver_ore": "Silver Ore",
+      "block.general_life.copper_ore_block": "Block of Copper",
+      "item.general_life.silver_dust": "Silver Dust",
+      "block.general_life.ardite_ore": "Ardite Ore",
+      "item.general_life.huevo_cocido": "Huevo Cocido",
+      "item.general_life.carne_purificada": "Carne Purificada",
+      "item.general_life.copper_dust": "Copper Dust",
+      "itemGroup.tabgeneral_life": "General Life",
+      "item.general_life.silver_ingot": "Silver",
+      "block.general_life.silver_ore_block": "Block of Silver",
+      "item.general_life.ardite_ingot": "Ardite",
+      "item.general_life.copper_ingot": "Copper",
+      "item.general_life.ardite_dust": "Ardite Dust",
+      "block.general_life.ardite_ore_block": "Block of Ardite"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "general_life",
+    "modName": "general_life",
+    "version": "1.0.0",
+    "author": "Daniel1394",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.generallife",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000322116
+}

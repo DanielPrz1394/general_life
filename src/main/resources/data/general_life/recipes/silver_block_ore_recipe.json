@@ -1,0 +1,13 @@
+{
+  "group": "general_life",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "general_life:silver_ore_block"
+    }
+  ],
+  "result": {
+    "item": "general_life:silver_ingot",
+    "count": 9
+  }
+}

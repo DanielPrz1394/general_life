@@ -1,0 +1,17 @@
+{
+  "block.general_life.copper_ore": "Copper Ore",
+  "block.general_life.silver_ore": "Silver Ore",
+  "block.general_life.copper_ore_block": "Block of Copper",
+  "item.general_life.silver_dust": "Silver Dust",
+  "block.general_life.ardite_ore": "Ardite Ore",
+  "item.general_life.huevo_cocido": "Huevo Cocido",
+  "item.general_life.carne_purificada": "Carne Purificada",
+  "item.general_life.copper_dust": "Copper Dust",
+  "itemGroup.tabgeneral_life": "General Life",
+  "item.general_life.silver_ingot": "Silver",
+  "block.general_life.silver_ore_block": "Block of Silver",
+  "item.general_life.ardite_ingot": "Ardite",
+  "item.general_life.copper_ingot": "Copper",
+  "item.general_life.ardite_dust": "Ardite Dust",
+  "block.general_life.ardite_ore_block": "Block of Ardite"
+}

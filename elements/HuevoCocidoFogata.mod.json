@@ -1,0 +1,20 @@
+{
+  "_fv": 8,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Campfire cooking",
+    "xpReward": 1.0,
+    "cookingTime": 100,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "campfireCookingInputStack": {
+      "value": "Items.EGG"
+    },
+    "campfireCookingReturnStack": {
+      "value": "CUSTOM:HuevoCocido"
+    },
+    "name": "huevo_cocido_fogata",
+    "namespace": "mod"
+  }
+}

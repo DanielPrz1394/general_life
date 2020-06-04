@@ -1,0 +1,12 @@
+{
+  "group": "general_life",
+  "type": "minecraft:campfire_cooking",
+  "experience": 1,
+  "cookingtime": 100,
+  "ingredient": {
+    "item": "minecraft:rotten_flesh"
+  },
+  "result": {
+    "item": "general_life:carne_purificada"
+  }
+}

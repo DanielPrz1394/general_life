@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "general_life:blocks/silver_ore",
+    "particle": "general_life:blocks/silver_ore"
+  }
+}

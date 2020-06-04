@@ -1,0 +1,11 @@
+{
+  "_fv": 8,
+  "_type": "tab",
+  "definition": {
+    "name": "General Life",
+    "icon": {
+      "value": "CUSTOM:CarnePurificada"
+    },
+    "showSearch": true
+  }
+}
